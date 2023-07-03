@@ -1,0 +1,52 @@
+/* *{
+    background-color: black;
+} */
+.packages{
+    /* border: 1px solid black; */
+    margin: 7px;
+
+}
+.terms_conditions{
+    /* align-items: end; */
+    text-align: left;
+    font-family: Rockwell;
+}
+
+.book_now{
+    background-color: rosybrown;
+}
+.book_now:hover{
+    background-color:tomato;
+}
+.mesmririse_photo{
+    margin: 10px;
+    padding: 2px;
+    background-color: black;
+    border-color: black;
+}
+/* .mesmririse_photo:hover */
+.constumes>h1{
+    font-family: cursive;
+    font-size: xx-large;
+    background-color: wheat;
+    align-items: center;
+    text-align: center;
+}
+.content>h4{
+    align-items: center;
+    text-align: center;
+}
+.content>h1{
+    align-items: center;
+    text-align: center;
+}
+.mesmerising{
+    align-items: center;
+    text-align: center;
+    background-color: rosybrown;
+}
+.container{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}

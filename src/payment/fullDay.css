@@ -1,0 +1,11 @@
+.information_btn{
+    border: none;
+    margin: 20px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+.information_btn:hover{
+    background-color: rgb(192, 217, 168);
+    
+}

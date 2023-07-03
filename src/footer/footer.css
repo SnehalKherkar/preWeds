@@ -1,0 +1,40 @@
+.containe{
+    background-color:black;
+    
+}
+.footer{
+    /* margin-top: 30px; */
+    color: white;
+    
+    
+}
+.logo_image{
+    margin-top: 50px;
+    /* position: absolute; */
+}
+.icons_follow{
+    margin: 10px 10px 10px;
+    cursor: pointer;
+    /* padding: 10px 10px 10px; */
+    
+}
+.second_row{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contact_call{
+    display: flex;
+    /* margin-left: 75px; */
+    /* margin-top: 30px; */
+    /* align-items: center; */
+}
+.contact_call>h6{
+    margin-left: 20px;
+}
+.policy{
+    margin-top: 50px;
+}
+.policy_button{
+    margin: 5px 5px 5px;
+    
+}
